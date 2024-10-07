@@ -104,7 +104,7 @@
           <mxGeometry x="270" y="700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e9VeZsLEOE9HL6Gym7Oc-39" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="505" width="90" height="40" as="geometry" />
+          <mxGeometry x="960" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e9VeZsLEOE9HL6Gym7Oc-40" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cambio&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Podemos cambiar la entidad de la relación de tres a dos&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cambiándola como entidad la relación&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="120" width="180" height="120" as="geometry" />
@@ -132,6 +132,15 @@
         </mxCell>
         <mxCell id="e9VeZsLEOE9HL6Gym7Oc-49" value="1:M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e9VeZsLEOE9HL6Gym7Oc-50" value="La pregunta va de singular a plural" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="310" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e9VeZsLEOE9HL6Gym7Oc-51" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e9VeZsLEOE9HL6Gym7Oc-52" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="200" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
