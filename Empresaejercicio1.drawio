@@ -203,6 +203,20 @@
         <mxCell id="-JTxSzL3S9BexKRUp41m-22" value="# del articulo pedido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="710" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-JTxSzL3S9BexKRUp41m-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-JTxSzL3S9BexKRUp41m-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JTxSzL3S9BexKRUp41m-25" value="Informaciond e las fabricas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="770" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JTxSzL3S9BexKRUp41m-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-JTxSzL3S9BexKRUp41m-27" target="e9VeZsLEOE9HL6Gym7Oc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-JTxSzL3S9BexKRUp41m-27" value="fabrica que lo distributye" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
