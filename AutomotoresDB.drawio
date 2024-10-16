@@ -181,7 +181,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HvvoE5Ge4kAAXwecDLQy-68" value="cambio: filtro;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;aceite;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;frenos; otros&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="760" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
