@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="D9WPHgZYriebXHHCMCkB">
-    <mxGraphModel dx="499" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,36 @@
         </mxCell>
         <mxCell id="HvvoE5Ge4kAAXwecDLQy-14" value="1:m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-17" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-18" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-19" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;Attribute&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="234" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-20" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="344" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-21" value="Attribute" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-22" value="caracteristica normal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-23" value="varias del mismo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="48" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-24" value="se clacula" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="48" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-25" value="unico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="48" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HvvoE5Ge4kAAXwecDLQy-26" value="pude ser unico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="48" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
