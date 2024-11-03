@@ -72,7 +72,7 @@
           <mxGeometry x="10.5" y="-4" width="164" height="26" as="geometry" />
         </mxCell>
         <mxCell id="U0KTLcIbXOTENBuNEpuO-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-245" y="807" width="1046" height="609" as="geometry" />
+          <mxGeometry x="-234" y="781.5" width="1046" height="609" as="geometry" />
         </mxCell>
         <mxCell id="U0KTLcIbXOTENBuNEpuO-24" value="Sistema de inicio de secion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="11" y="815" width="163" height="26" as="geometry" />
@@ -94,6 +94,15 @@
             <Array as="points">
               <mxPoint x="84" y="1016" />
               <mxPoint x="84" y="1062" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-26" target="U0KTLcIbXOTENBuNEpuO-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="84" y="1016" />
+              <mxPoint x="84" y="1320" />
+              <mxPoint x="195" y="1320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -136,6 +145,12 @@
         </mxCell>
         <mxCell id="U0KTLcIbXOTENBuNEpuO-38" value="Transferencia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463" y="1168" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-42" target="U0KTLcIbXOTENBuNEpuO-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-42" value="Crear itinerario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="1281" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
