@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U0KTLcIbXOTENBuNEpuO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-199" y="-12" width="655" height="798" as="geometry" />
+          <mxGeometry x="-178" y="-16" width="570" height="628" as="geometry" />
         </mxCell>
         <mxCell id="U0KTLcIbXOTENBuNEpuO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-2" target="U0KTLcIbXOTENBuNEpuO-3">
           <mxGeometry relative="1" as="geometry">
@@ -57,14 +57,13 @@
         <mxCell id="U0KTLcIbXOTENBuNEpuO-7" value="Consultar reservas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="32" y="463" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U0KTLcIbXOTENBuNEpuO-8" value="Consultar informes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="32" y="599" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="U0KTLcIbXOTENBuNEpuO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-9" target="U0KTLcIbXOTENBuNEpuO-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="U0KTLcIbXOTENBuNEpuO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-9" target="U0KTLcIbXOTENBuNEpuO-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="349" y="370" />
+              <mxPoint x="349" y="503" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="U0KTLcIbXOTENBuNEpuO-9" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="637" y="340" width="30" height="60" as="geometry" />
