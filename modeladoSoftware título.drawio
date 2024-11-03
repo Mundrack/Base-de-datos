@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.8.3">
   <diagram name="Página-1" id="wDbXHCgZsaRD1yD6ekFN">
-    <mxGraphModel>
+    <mxGraphModel dx="2474" dy="1307" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-199" y="-12" width="655" height="798" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-2" target="U0KTLcIbXOTENBuNEpuO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-444" y="354" />
+              <mxPoint x="-250" y="354" />
+              <mxPoint x="-250" y="171" />
+              <mxPoint x="-126" y="171" />
+              <mxPoint x="-126" y="108" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-2" target="U0KTLcIbXOTENBuNEpuO-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-251" y="354" />
+              <mxPoint x="-251" y="241" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-2" target="U0KTLcIbXOTENBuNEpuO-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-251" y="354" />
+              <mxPoint x="-251" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-2" target="U0KTLcIbXOTENBuNEpuO-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-252" y="354" />
+              <mxPoint x="-252" y="503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-474" y="324" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-3" value="Iniciar secion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="68" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-5" value="Reservar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="201" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-6" value="Buscar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="334" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-7" value="Consultar reserva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="463" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-8" value="Consultar informes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32" y="599" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-9" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="637" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-20" value="Sistema para agendar viaje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10.5" y="-4" width="164" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
