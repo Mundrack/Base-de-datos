@@ -71,6 +71,30 @@
         <mxCell id="U0KTLcIbXOTENBuNEpuO-20" value="Sistema para agendar viaje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10.5" y="-4" width="164" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-234" y="804" width="1046" height="609" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-24" value="Sistema de inicio de secion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="11" y="815" width="163" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-25" target="U0KTLcIbXOTENBuNEpuO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U0KTLcIbXOTENBuNEpuO-25" target="U0KTLcIbXOTENBuNEpuO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-25" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="1056" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-26" value="iniciar secion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-127" y="976" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-27" value="registrarse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="1097" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U0KTLcIbXOTENBuNEpuO-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="909" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
